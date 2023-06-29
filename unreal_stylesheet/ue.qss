@@ -8,17 +8,17 @@ https://coolors.co/151515-242424-2f2f2f-353535-4f4f4f-575757-8f8f8f-c0c0c0
 .scss is preprocessor for .css like file, more information please see:
   https://sass-lang.com/guide
   https://github.com/spyder-ide/qtsass
-  to compile .scss to .qss use command:
+  to compile .sc\sdfdfss to .qss use command:
     `qtsass ue.scss -o ue.qss`
 */
 QMainWindow {
   background-color: #151515;
-  color: white;
+  color: white;\sdf\sdf
   font-family: "Roboto"; }
 
 #centralwidget {
   background-color: #151515; }
-
+\dsfsdf
 QWidget {
   background-color: #242424;
   color: white;
